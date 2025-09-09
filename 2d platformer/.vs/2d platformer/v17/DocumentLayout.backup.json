@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\2D Platformer\\2d platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerTeleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PlayerTeleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BirdPoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\BirdPoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\ControlsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\ControlsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\CharcterMovementIn StartMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\CharcterMovementIn StartMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Seagull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Seagull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MovingPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\MovingPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BouncingPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\BouncingPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\TimeTick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\TimeTick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerOnewayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PlayerOnewayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:01:25.461Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerTeleport.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerTeleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerTeleport.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerTeleport.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerTeleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:45:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Teleporter.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\Script\\Teleporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:39:39.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\ControlsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ControlsMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\ControlsMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\ControlsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:58:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:17:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharcterMovementIn StartMenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\CharcterMovementIn StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharcterMovementIn StartMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\CharcterMovementIn StartMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\CharcterMovementIn StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:24:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:43:08.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Seagull.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Seagull.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Seagull.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Seagull.cs",
+              "RelativeToolTip": "Assets\\Script\\Seagull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:37:27.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BirdPoop.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BirdPoop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BirdPoop.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BirdPoop.cs",
+              "RelativeToolTip": "Assets\\Script\\BirdPoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:00:36.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeTick.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\TimeTick.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TimeTick.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\TimeTick.cs",
+              "RelativeToolTip": "Assets\\Script\\TimeTick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:36:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:22:37.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerOnewayPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerOnewayPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerOnewayPlatform.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerOnewayPlatform.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerOnewayPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:52:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BouncingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BouncingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BouncingPlatform.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\BouncingPlatform.cs",
+              "RelativeToolTip": "Assets\\Script\\BouncingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:43:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MovingPlatform.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Script\\MovingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:53:14.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\USER\\2D Platformer\\2d platformer\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:04:18.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
