@@ -1,11 +1,3 @@
-# 2d-platformer
-A simple 2d platformer game made on Unity with a friend.
+# Itsy Bitsy Spider
+A simple spider-themed 2d platformer game made on Unity for a class group project.
 All original assets/audio.
-
-Donwload the zip files to try.
-
-Current builds:
-MacOS
-Windows
-
-
